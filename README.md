@@ -8,6 +8,11 @@ Designed with a clean UI, smooth UX, and a strong focus on mental well-being.
 ------------------------------
 
 
+https://github.com/GBhavyasri19/REPO/blob/main/screenshots%20project/ss1.png
+
+
+
+
 Screenshots project/
 ├── ss1.png
 ├── ss2.png
