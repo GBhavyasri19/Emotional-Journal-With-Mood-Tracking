@@ -1,9 +1,11 @@
-# 🌈 Emotional Journal with Mood Tracking
+🌈 Emotional Journal with Mood Tracking
+
 
 An intuitive **Emotional Journal Web App** that helps users track their daily moods, reflect on emotions, and build emotional awareness over time.  
 Designed with a clean UI, smooth UX, and a strong focus on mental well-being.
 
-> 💡 Built using **React**, **HTML**, and **CSS** — perfect for showcasing frontend skills to recruiters.
+
+💡 Built using **React**, **HTML**, and **CSS** — perfect for showcasing frontend skills to recruiters.
 
 ------------------------------
 
