@@ -10,8 +10,7 @@ Designed with a clean UI, smooth UX, and a strong focus on mental well-being.
 
 ## 📸 Screenshots
 
-
-![Screenshot 1](screenshots%20project/ss1.png)
+ss1.png
 ![Screenshot 2](screenshots%20project/ss2.png)
 ![Screenshot 3](screenshots%20project/ss3.png)
 ![Screenshot 4](screenshots%20project/ss4.png)
