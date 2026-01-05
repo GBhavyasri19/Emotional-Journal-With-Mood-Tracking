@@ -12,7 +12,7 @@ Designed with a clean UI, smooth UX, and a strong focus on mental well-being.
 
 | Home / Mood Selection | Journal Entry | Mood History |
 |----------------------|--------------|--------------|
-| ![Home](screenshots project/ss1.png) | ![Journal](screenshots project/ss2.png) |![Mood Tracker](screenshots project/ss3.png) | ![Insights](screenshots project/ss4.png) | ![Insights](screenshots project/ss5.png) | ![AI History](screenshots project/ss6.png) |
+| (screenshots project/ss1.png) | (screenshots project/ss2.png) |(screenshots project/ss3.png) | (screenshots project/ss4.png) | (screenshots project/ss5.png) | (screenshots project/ss6.png) |
 
 ------------------------------
 
