@@ -8,7 +8,7 @@ Designed with a clean UI, smooth UX, and a strong focus on mental well-being.
 ------------------------------
 
 
-screenshots project/
+Screenshots project/
 ├── ss1.png
 ├── ss2.png
 ├── ss3.png
